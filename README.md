@@ -18,11 +18,8 @@ Welcome to the XGBoost Hypertension Predictor project! This repository contains 
 ## Project Structure
 
 ```
-.
-├── data/
-│   └── hypertension_data.csv      # Raw dataset for hypertension prediction
-├── notebooks/
-│   └── Sagemaker_xgboost_hypertension_prediction.ipynb  # Jupyter notebook for model development 
+├── hypertension_data.csv    # Raw dataset for hypertension prediction
+├── Sagemaker_xgboost_hypertension_prediction.ipynb  # Jupyter notebook for model development 
 └── README.md               
 ```
 
