@@ -1,5 +1,3 @@
-Certainly! Here’s a detailed and well-structured `README.md` file for your GitHub repository:
-
 ---
 
 # XGBoost Hypertension Predictor on AWS SageMaker
